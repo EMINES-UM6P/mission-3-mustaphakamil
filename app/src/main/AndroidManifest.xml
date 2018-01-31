@@ -3,7 +3,7 @@
     package="com.authentification.khalidbaba.authentification">
 
     <!-- TODO 5 : Add the INTERNET permission-->
-
+    <uses-permission android:name="androis.permission;INTERNET"/>
     <application
         android:name=".AppController"
         android:allowBackup="true"
